@@ -127,5 +127,5 @@ jobs:
 
 随后你需要创建一个 GitHub 项目仓库，然后将你本地的文件上传。上传后，需要在项目的 setting 中进行配置，这里我们将 `Build and deployment -> Source` 选择为 `GitHub Actions`，并根据需要配置你自己的域名就可以了。
 
-![]()
+![](https://github.com/dqhl76/dqhl76-site/assets/69136320/31b74b2c-71f1-4e12-8be7-6e113e124770)
 
