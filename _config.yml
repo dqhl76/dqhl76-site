@@ -5,11 +5,13 @@
 # Site
 title: dqhl's blog
 subtitle: ''
+avatar: https://avatars.githubusercontent.com/u/69136320?v=4
+favicon: https://avatars.githubusercontent.com/u/69136320?v=4
 description: ''
-keywords:
 author: dqhl76
-language: en
-timezone: ''
+language:
+  - zh-CN
+  - en
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
