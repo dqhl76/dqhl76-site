@@ -35,9 +35,11 @@ jobs:
           restore-keys: |
             ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
-        run: npm install
-      - name: Build
-        run: hexo g
+        run: |
+           npm install -g hexo-cli 
+           npm install
+           hexo clean
+           hexo g
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
