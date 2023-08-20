@@ -1,14 +1,18 @@
 ---
 title: 使用 Github Action 实现 Hexo 的自动部署
-date: 2023-08-14 14:01:12
-tags: Github, Hexo, Github Action, Github Page, Deploy
+date: 2023-08-10 14:01:12
+tags: 
+- Github
+- Hexo
+- Github Action
+- Github Pages
 ---
 
 据说每一个写代码的人都有一个博客梦，不管是平时学习的内容，还是一些日常的感受，都可以分享出来。
 
 作为我在更换为 Hexo 后的第一篇文章，就讲讲如何使用 Github Action 来自动将你托管在 Github 的上 Hexo 项目部署到 Github Page 上。
 
-本文更偏向于面向一个{% wavy 没有相关经验的朋友 %}分享如何实现，如果你已经有相关经验，可以直接复制走 {% tag workflow https://blog.realdqhl.com/2023/08/14/hexo-setup-github-workflow/#%E9%85%8D%E7%BD%AE-Github-Action%} 的配置文件。
+本文更偏向于面向一个{% wavy 没有相关经验的朋友 %}分享如何实现，如果你已经有相关经验，可以直接复制走 {% tag workflow https://blog.realdqhl.com/hexo-setup-github-workflow/#%E9%85%8D%E7%BD%AE-Github-Action%} 的配置文件。
 
 ## 下载并初始化Hexo
 
