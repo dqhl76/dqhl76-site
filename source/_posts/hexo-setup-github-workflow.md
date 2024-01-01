@@ -12,7 +12,7 @@ tags:
 
 作为我在更换为 Hexo 后的第一篇文章，就讲讲如何使用 Github Action 来自动将你托管在 Github 的上 Hexo 项目部署到 Github Page 上。
 
-本文更偏向于面向一个{% wavy 没有相关经验的朋友 %}分享如何实现，如果你已经有相关经验，可以直接复制走 {% tag workflow https://blog.realdqhl.com/hexo-setup-github-workflow/#%E9%85%8D%E7%BD%AE-Github-Action%} 的配置文件。
+本文更偏向于面向一个{% wavy 没有相关经验的朋友 %}分享如何实现，如果你已经有相关经验，可以直接复制走配置文件。
 
 ## 下载并初始化Hexo
 
